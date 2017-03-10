@@ -1,0 +1,8 @@
+{
+  "name": "bower-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/f-mitigator/bower-packages.git",
+  "author": "Denis Baskovsky <baskovskiy@bifit.com>",
+  "license": "MIT"
+}
